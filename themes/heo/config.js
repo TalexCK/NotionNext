@@ -14,7 +14,7 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_3: 'talexck.top'
+  HEO_HERO_TITLE_3: 'talexck.top',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: 'Knowledge', url: '/tag/knowledge' },
